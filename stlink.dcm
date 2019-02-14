@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESDA5V3-SC5
+D Quintuple bidirectional transil, Suppressor for ESD protection, 5V3 Breakdown, SOT-23-5
+K ESD protection suppression transient
+$ENDCMP
+#
+#End Doc Library
